@@ -29,9 +29,9 @@ add:
 
 mul:
     base
-    base '*' add
-    base '/' add
-    base '%' add
+    base '*' mul
+    base '/' mul
+    base '%' mul
 
 base:
     number
