@@ -1,6 +1,6 @@
 # An expression evaluator, in Rust
 
-This is a simple command line application that evaluates expressions. It is written in Rust, as my attempt to learn the language, and I'd like to share the sources for educational purposes. Feel free to browse through the code, there's lot of informative comments about how the code is structured and why I did that.
+This is a simple command line application that evaluates expressions. It is written in Rust, as an attempt to learn the language, and I'd like to share the sources for educational purposes. Feel free to browse through the code, there's lot of informative comments about how the code is structured and why I did certain things.
 
 ## Usage
 Run using `cargo run`, then enter an expression as soon as the `>>>` appears. Expressions can be made out of basic arithmetic operations and parentheses with the formal operator precedence. The following operators are allowed:
