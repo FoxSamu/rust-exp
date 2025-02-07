@@ -112,7 +112,7 @@ fn _abs(n: f64) -> f64 {
 
 // All numeric values are expressions that evaluate to themselves as f64. Rust
 // allows you to add traits to existing types. Since numbers are 'Sized', the
-// compiler now allows you to call the 'val' function on any of the types
+// compiler now allows you to call the 'eval' function on any of the types
 // implementing below.
 
 // Floats
